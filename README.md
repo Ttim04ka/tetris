@@ -1,1 +1,1 @@
-# tetris
+# tetris on JS
