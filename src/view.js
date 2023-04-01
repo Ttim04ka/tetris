@@ -51,7 +51,7 @@ export default class View{
         this.context.textAlign='center';
         this.context.textBaseline='middle';
         this.context.fillText('Press Enter to start',this.width/2,this.height/2);
-        this.context.fillText('Разработано овощем',this.width/2,this.height/2+48);
+        this.context.fillText('Разработано Ttim04ka',this.width/2,this.height/2+48);
     }
 
     renderPauseScreen(){
